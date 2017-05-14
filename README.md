@@ -13,7 +13,7 @@ After the model is trained, I tested model on images of random German traffic si
 Results
 ---
 
-An Ipython project can be found here: [View Ipython notebook](). 
+An Ipython project can be found here: [View Ipython notebook](https://github.com/kylemartin1/GermanSignClassifier/blob/master/Traffic_Sign_Classifier.ipynb). 
 
-A write up for this project can be found here: [View Writeup](). 
+A write up for this project can be found here: [View Writeup](https://github.com/kylemartin1/GermanSignClassifier/blob/master/CardNDProject2Writeup.pdf). 
 
